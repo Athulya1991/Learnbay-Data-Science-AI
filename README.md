@@ -1,1 +1,1 @@
-# Learnbay-Data-Science-AI
+# Data-Science-AI
